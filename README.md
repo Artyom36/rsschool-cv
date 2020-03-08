@@ -1,2 +1,2 @@
 # rsschool-cv
-[Resume](https://github.com/Artyom36/rsschool-cv/cv)
+[Resume](https://artyom36.github.io/rsschool-cv/cv)
